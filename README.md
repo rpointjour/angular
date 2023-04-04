@@ -1,1 +1,4 @@
-# angular
+# AngularJS
+- Getting Started
+- Applications
+- Projects
