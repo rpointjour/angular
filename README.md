@@ -1,4 +1,3 @@
 # AngularJS
 - Getting Started
-- Applications
-- Projects
+    Introduction
