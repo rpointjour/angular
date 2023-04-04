@@ -1,3 +1,14 @@
 # AngularJS
 - Getting Started : https://www.w3schools.com/angular/default.asp
-    - Introduction
+    - Basics
+        - Directives
+        - Expressions
+        - Filters
+        - Modules
+        - Controllers
+        - Events
+        - DOM
+        - Forms
+        - Input
+        - Validation
+        - Http
