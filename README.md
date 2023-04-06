@@ -11,7 +11,9 @@ width="50%" height="50%">
             - Syntax: ng prefix : `ng-init` | `ng-app` | `ng-model` | `ng-bind`
         - Expressions
             - Bind data to HTML
+            - Syntax: {{ }}
             - Output data exactly where expression is written!
+            - Bind data to HTML like ng-bind directive
         - Filters
         - Modules
         - Controllers
